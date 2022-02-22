@@ -7,4 +7,5 @@ func main() {
 	fmt.Println("Hello World")
 	fmt.Println("masuk ke developer")
 	fmt.Println("masuk ke developer 2")
+	fmt.Println("masuk ke developer 3")
 }
