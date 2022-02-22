@@ -9,5 +9,11 @@ func main() {
 	fmt.Println("masuk ke developer 2")
 	fmt.Println("masuk ke developer 3")
 	fmt.Println("FeatureA")
+	fmt.Println("FeatureB")
+	fmt.Println("FeatureB1")
 	fmt.Println("Feature A1")
+	fmt.Println("Feature B")
+	fmt.Println("Feature B2")
+	fmt.Println("Feature B3")
+	fmt.Println("Feature B4")
 }
