@@ -13,4 +13,4 @@ tambah kurang kali bagi, ada juga tipe data seperti integer float dll, ada juga
 branching atau percabangan seperti If Else Switch dll, lalu ada perulangan
 seperti for while do-while, dan yang tak kalah penting adalah input dan output data.
 
-![](E:\ALTERA ACADEMY\SECTION 3\TIPE DATA.jpg)
+![](E:\ALTERA ACADEMY\PELATIHAN 2\java_nur-yudha-kurnia-ramadhan\4_Basic-Programing\TIPE DATA.jpg)
