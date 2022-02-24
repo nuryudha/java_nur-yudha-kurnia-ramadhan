@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/4_Basic-Programing.iml" filepath="$PROJECT_DIR$/.idea/4_Basic-Programing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Praktikum/TASK 1 (KONSONAN DAN VOKAL)/TASK 1 (KONSONAN DAN VOKAL).iml" filepath="$PROJECT_DIR$/Praktikum/TASK 1 (KONSONAN DAN VOKAL)/TASK 1 (KONSONAN DAN VOKAL).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Praktikum/TASK 7 (ASTERISK)/TASK 7 (ASTERISK).iml" filepath="$PROJECT_DIR$/Praktikum/TASK 7 (ASTERISK)/TASK 7 (ASTERISK).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Praktikum/TASK 8 (TABEL PERKALIAN)/TASK 8 (TABEL PERKALIAN).iml" filepath="$PROJECT_DIR$/Praktikum/TASK 8 (TABEL PERKALIAN)/TASK 8 (TABEL PERKALIAN).iml" />
+    </modules>
+  </component>
+</project>

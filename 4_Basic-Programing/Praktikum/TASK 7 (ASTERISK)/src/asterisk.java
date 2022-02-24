@@ -2,22 +2,19 @@ import java.util.Scanner;
 
 public class asterisk {
     public static void main(String[] args) {
-        int jumlah;
+        int jumlah,i,j,k;
 
         Scanner masukan = new Scanner(System.in);
 
-        System.out.print("input: ");
+        System.out.print("input baris: ");
         jumlah = masukan.nextInt();
 
-        for (int i = 1; i <= jumlah; i++){
-            for (int j = 4; j >= i; j--) {
-                System.out.print(' ');
+        for( i=1; i<=jumlah; i++) {
+            for( j=jumlah; j>i; j--) {
+                System.out.print(" ");
             }
-            for (int k = 1; k <= i; k++){
-                System.out.print('*');
-            }
-            for (int l = 1; l <= i - 1; l++){
-                System.out.print(' ');
+            for( k=1; k<=i; k++) {
+                System.out.print("* ");
             }
             System.out.println();
         }
