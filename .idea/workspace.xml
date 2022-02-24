@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2d331a0f-3378-4c72-876d-c5ce7a2da1fd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/java_nur-yudha-kurnia-ramadhan.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4_Basic-Programing/Praktikum/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/4_Basic-Programing/Praktikum/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="2d331a0f-3378-4c72-876d-c5ce7a2da1fd" name="Changes" comment="menambah tugas 8">
+      <change afterPath="$PROJECT_DIR$/4_Basic-Programing/Praktikum/TASK 7 (ASTERISK)/src/asterisk.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +43,29 @@
       <option name="presentableId" value="Default" />
       <updated>1645663329235</updated>
     </task>
+    <task id="LOCAL-00001" summary="menambah tugas 8">
+      <created>1645677731527</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1645677731527</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="menambah tugas 8" />
+    <option name="LAST_COMMIT_MESSAGE" value="menambah tugas 8" />
   </component>
 </project>
