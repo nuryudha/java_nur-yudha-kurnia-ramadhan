@@ -15,10 +15,10 @@ public class main {
 
         for( i=1; i<=jumlah; i++) {
             System.out.print("Input =  ");
-            nama = input.nextLine();
+            nama = input.next();
+            kata.add(nama);
         }
 
-//        kata.add("nama");
 
 
         Iterator <String> iterator = kata.iterator();
