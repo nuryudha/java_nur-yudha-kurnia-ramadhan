@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2d331a0f-3378-4c72-876d-c5ce7a2da1fd" name="Changes" comment="menambah readme untuk section 8">
-      <change afterPath="$PROJECT_DIR$/4_Basic-Programing/Praktikum/TASK 7 (ASTERISK)/src/coba.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kelas/coba/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kelas/coba/src/main/java/coba1.java" afterDir="false" />
+    <list default="true" id="2d331a0f-3378-4c72-876d-c5ce7a2da1fd" name="Changes" comment="menambah tugas DML DDL JOIN dan OOP">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +31,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/9_Problem-Solving-Brute-Force/Praktikum" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -86,7 +84,14 @@
       <option name="project" value="LOCAL" />
       <updated>1646211461780</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="menambah tugas DML DDL JOIN dan OOP">
+      <created>1650207172081</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1650207172081</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -105,6 +110,7 @@
     <MESSAGE value="menambah readme untuk section 5" />
     <MESSAGE value="menambah readme untuk section 7" />
     <MESSAGE value="menambah readme untuk section 8" />
-    <option name="LAST_COMMIT_MESSAGE" value="menambah readme untuk section 8" />
+    <MESSAGE value="menambah tugas DML DDL JOIN dan OOP" />
+    <option name="LAST_COMMIT_MESSAGE" value="menambah tugas DML DDL JOIN dan OOP" />
   </component>
 </project>
