@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0a968bf0-d168-43f2-a32c-5a472670e6f3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../6_Collection-(Iterable)/Praktikum/src/main/java/Iterable2/Input_sekali.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6_Collection-(Iterable)/Praktikum/src/main/java/Iterable/Input_sekali.java" beforeDir="false" afterPath="$PROJECT_DIR$/../6_Collection-(Iterable)/Praktikum/src/main/java/Iterable/Input_sekali.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6_Collection-(Iterable)/Praktikum/src/main/java/Iterable/marge_array.java" beforeDir="false" afterPath="$PROJECT_DIR$/../6_Collection-(Iterable)/Praktikum/src/main/java/Iterable/marge_array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6_Collection-(Iterable)/Praktikum/target/classes/Iterable/Input_sekali.class" beforeDir="false" afterPath="$PROJECT_DIR$/../6_Collection-(Iterable)/Praktikum/target/classes/Iterable/Input_sekali.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6_Collection-(Iterable)/Praktikum/target/classes/Iterable/marge_array.class" beforeDir="false" afterPath="$PROJECT_DIR$/../6_Collection-(Iterable)/Praktikum/target/classes/Iterable/marge_array.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="25zNCkohxbSkqKC3N0y7lq8XYUB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0a968bf0-d168-43f2-a32c-5a472670e6f3" name="Changes" comment="" />
+      <created>1646525831071</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1646525831071</updated>
+    </task>
+    <servers />
+  </component>
+</project>

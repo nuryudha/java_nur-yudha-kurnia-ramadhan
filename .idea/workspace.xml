@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2d331a0f-3378-4c72-876d-c5ce7a2da1fd" name="Changes" comment="menambah readme untuk section 8">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4_Basic-Programing/Praktikum/TASK 7 (ASTERISK)/src/coba.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kelas/coba/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kelas/coba/src/main/java/coba1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +33,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/4_Basic-Programing/Praktikum/TASK 4 (BILANGAN PRIMA)" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/9_Problem-Solving-Brute-Force/Praktikum" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">

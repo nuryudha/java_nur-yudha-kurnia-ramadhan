@@ -1,0 +1,29 @@
+OOP 1
+
+object kucing, mengeluarkan suara, bisa
+makan dan bisa loncat. 
+
+enkapsulasi
+membungkus dalam sebuah klas yang isinya 
+method dan attribut. class itu adalah template 
+atau blueprint. Dalam define class, atau mendefinisikan kelas dengan
+huruf besar. 
+atribut (akses modifier)
+untuk menentukan akses atas suatu atribut
+private , hanya bisa di akses di kelas tersebut.
+protected , biasanya di akses sama turunannya, dan hanya bisa di satu package yang sama.
+public , bisa di akses di mana aja.
+this dipake karena adanya variable shadowing.
+
+data abstraksi
+getter - setter
+
+inheritance
+mewariskan atribut atau mewariskan method
+ketika object digunakan sebgai induk, child tersebut akan mewarisi si patternnya
+dalam inheritance biasanya mengekstend. 
+
+polyhorphism
+
+BIKIN KANDANG
+BIKIN MENU PAKE SWITCH KASE
