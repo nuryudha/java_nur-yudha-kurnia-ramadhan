@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.*;
 import java.util.List;
 
 // Controller  - Jembatan untuk ke URL API
-//Getmap untuk anotasi dengan method get (mendapatkan data)
+// Getmap untuk anotasi dengan method get (mendapatkan data)
  @RestController
 
 public class BukberController {
