@@ -14,23 +14,23 @@ public class DetailTransaksiController {
     @Autowired
     private DetailTransaksiService service;
 
-    @PostMapping("/addDetail")
+    @PostMapping("/addDetailTransaksi")
     public DetailTransaksi addDetail(@RequestBody DetailTransaksi detailTransaksi) {
         return service.saveDetail(detailTransaksi);
     }
 
-    @GetMapping("/details")
+    @GetMapping("/detailsTransaksi")
     public List<DetailTransaksi> findAllDetails() {
         return service.getDetails();
     }
 
-    @GetMapping("/detailById/{id}")
+    @GetMapping("/detailTransaksiById/{id}")
     public DetailTransaksi findDetailById(@PathVariable int id){
         return service.getDetailById(id);
     }
 
 
-    @DeleteMapping("/detail/delete/{id}")
+    @DeleteMapping("/detailTransaksi/delete/{id}")
     public String deleteDetail(@PathVariable int id){
         return service.deleteDetail(id);
     }

@@ -28,7 +28,7 @@ public class ServisController {
         return service.getServisById(id);
     }
 
-    @PostMapping("/update/servis")
+    @PutMapping("/update/servis")
     public Servis updateServis(@RequestBody Servis servis){
         return service.updateServis(servis);
     }
