@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2d331a0f-3378-4c72-876d-c5ce7a2da1fd" name="Changes" comment="menambah readme tugas DML DDL JOIN dan OOP">
+    <list default="true" id="2d331a0f-3378-4c72-876d-c5ce7a2da1fd" name="Changes" comment="menambah tugas project">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,7 +31,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/14_API/cobaaja_bukber" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/15_Project" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -98,7 +98,14 @@
       <option name="project" value="LOCAL" />
       <updated>1650207551920</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="menambah tugas project">
+      <created>1651582616928</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1651582616929</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -119,6 +126,7 @@
     <MESSAGE value="menambah readme untuk section 8" />
     <MESSAGE value="menambah tugas DML DDL JOIN dan OOP" />
     <MESSAGE value="menambah readme tugas DML DDL JOIN dan OOP" />
-    <option name="LAST_COMMIT_MESSAGE" value="menambah readme tugas DML DDL JOIN dan OOP" />
+    <MESSAGE value="menambah tugas project" />
+    <option name="LAST_COMMIT_MESSAGE" value="menambah tugas project" />
   </component>
 </project>
